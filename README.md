@@ -8,11 +8,11 @@ It also adds additional keys for ```<```, ```>``` and ```|``` and removes dead k
 ## Layout
 Note that the keys denoted ```Caps``` below are actually ```AltGr```.
 #### Base layer
-![base layer](images/base.png)
+![base layer changes](images/base-changes.png)
 #### Shift layer
-![shift layer](images/shift-layer.png)
+![shift layer changes](images/shift-changes.png)
 #### AltGr layer
-![altgr layer](images/altgr-layer.png)
+![altgr layer changes](images/altgr-changes.png)
 
 
 ## Installation
